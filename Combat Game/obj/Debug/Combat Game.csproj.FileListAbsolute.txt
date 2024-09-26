@@ -1,0 +1,6 @@
+C:\Users\xw727d\Desktop\C#\Combat Game\Combat Game\bin\Debug\Combat Game.exe.config
+C:\Users\xw727d\Desktop\C#\Combat Game\Combat Game\bin\Debug\Combat Game.exe
+C:\Users\xw727d\Desktop\C#\Combat Game\Combat Game\bin\Debug\Combat Game.pdb
+C:\Users\xw727d\Desktop\C#\Combat Game\Combat Game\obj\Debug\Combat Game.csprojResolveAssemblyReference.cache
+C:\Users\xw727d\Desktop\C#\Combat Game\Combat Game\obj\Debug\Combat Game.exe
+C:\Users\xw727d\Desktop\C#\Combat Game\Combat Game\obj\Debug\Combat Game.pdb
